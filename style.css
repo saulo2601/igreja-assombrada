@@ -13,3 +13,11 @@ button{
   font-style: normal;
       
 }
+
+.passo{
+  display: none;
+}
+
+.passo.ativo{
+  display: block;
+}
